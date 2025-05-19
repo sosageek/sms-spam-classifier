@@ -1,4 +1,4 @@
-# *Text messages spam classifier with TF-IDF and Naive Bayes*
+# **Text messages spam classifier with TF-IDF and Naive Bayes**
 A binary text classifier built with **scikit-learn** that classifies text messages as **spam** or **ham**. Nothing more than a **self-learning ML project** to improve my skills in **NLP**. In the notebook file you will find code for
 - Cleaning and preprocessing raw text;
 - Converting messages to numeric features using **TF-IDF vectorization**;

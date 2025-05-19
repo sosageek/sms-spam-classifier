@@ -13,8 +13,8 @@ The dataset is really lightweight and made of two columns of tab-separated value
 ## How to open and run the notebook locally
 1. Clone and open the repo
 ```bash
-   git clone https://github.com/your-username/spam-classifier.git
-   cd spam-classifier
+   git clone https://github.com/your-username/sms-spam-classifier.git
+   cd sms-spam-classifier
 ```
 2. *Create a virtual environment (optional)*
 ```bash
@@ -33,8 +33,8 @@ The dataset is really lightweight and made of two columns of tab-separated value
 ## How to run the pre-trained model locally
 1. Clone and open the repo
 ```bash
-   git clone https://github.com/your-username/spam-classifier.git
-   cd spam-classifier
+   git clone https://github.com/your-username/sms-spam-classifier.git
+   cd sms-spam-classifier
 ```
 2. Install joblib (if not already installed)
 ```bash
